@@ -1,0 +1,22 @@
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Nesne Taşıma\Nesne Taşıma\bin\Debug\Nesne Taşıma.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Nesne Taşıma\Nesne Taşıma\bin\Debug\Nesne Taşıma.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne_Taşıma.Form1.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne_Taşıma.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne Taşıma.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne Taşıma.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne Taşıma.pdb
+C:\Users\murat\Desktop\23 Kodbank C# Görsel Programlama 23 Form Üzerinde Nesne Taşıma\Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne Taşıma.exe
+C:\Users\murat\Desktop\23 Kodbank C# Görsel Programlama 23 Form Üzerinde Nesne Taşıma\Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne Taşıma.pdb
+C:\Users\murat\Desktop\23 Kodbank C# Görsel Programlama 23 Form Üzerinde Nesne Taşıma\Nesne Taşıma\Nesne Taşıma\bin\Debug\Nesne Taşıma.exe
+C:\Users\murat\Desktop\23 Kodbank C# Görsel Programlama 23 Form Üzerinde Nesne Taşıma\Nesne Taşıma\Nesne Taşıma\bin\Debug\Nesne Taşıma.pdb
+C:\Users\murat\Desktop\23 Kodbank C# Görsel Programlama 23 Form Üzerinde Nesne Taşıma\Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne_Taşıma.Form1.resources
+C:\Users\murat\Desktop\23 Kodbank C# Görsel Programlama 23 Form Üzerinde Nesne Taşıma\Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne_Taşıma.Properties.Resources.resources
+C:\Users\murat\Desktop\23 Kodbank C# Görsel Programlama 23 Form Üzerinde Nesne Taşıma\Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne Taşıma.csproj.GenerateResource.Cache
+F:\04 - Yazılım\04 - Form Projeleri\26 Form Üzerinde Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne Taşıma.exe
+F:\04 - Yazılım\04 - Form Projeleri\26 Form Üzerinde Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne Taşıma.pdb
+F:\04 - Yazılım\04 - Form Projeleri\26 Form Üzerinde Nesne Taşıma\Nesne Taşıma\bin\Debug\Nesne Taşıma.exe
+F:\04 - Yazılım\04 - Form Projeleri\26 Form Üzerinde Nesne Taşıma\Nesne Taşıma\bin\Debug\Nesne Taşıma.pdb
+F:\04 - Yazılım\04 - Form Projeleri\26 Form Üzerinde Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne Taşıma.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\26 Form Üzerinde Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne_Taşıma.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\26 Form Üzerinde Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne_Taşıma.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\26 Form Üzerinde Nesne Taşıma\Nesne Taşıma\obj\x86\Debug\Nesne Taşıma.csproj.GenerateResource.Cache
